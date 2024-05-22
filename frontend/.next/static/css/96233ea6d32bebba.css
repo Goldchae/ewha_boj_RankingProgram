@@ -1,0 +1,1 @@
+body{margin:0;padding:0;box-sizing:border-box;font-family:Malgun Gothic,Apple SD Gothic Neo,Nanum Gothic,Arial}*,:after,:before{box-sizing:inherit}@keyframes slideUp{0%{transform:translateY(100%);opacity:0}to{transform:translateY(0);opacity:1}}.slide-up{animation:slideUp 1s ease-in-out forwards;display:block}
