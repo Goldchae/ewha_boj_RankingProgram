@@ -1,7 +1,7 @@
 # 🏅ewha_boj_RankingProgram🏅
 
 이화여대 백준 랭킹 상승용 프로그램
-(사진)
+<img src="./mainpage.png">
 
 - 학교 랭킹
 - 오늘의 문제
@@ -124,5 +124,6 @@ DB 정리용 dropdb.sql
 
 ---
 
-Team 뀨엘
+### Team 뀨엘
+
 박세은 / 정희원 / 정은채 / 정소은 / 최이경
