@@ -83,7 +83,7 @@ const TodayProblem = ({ title, problems }) => {
                     registrations[index]
                   ) : (
                     <RegisterButton onClick={() => handleRegisterClick(index)}>
-                      등록하기
+                      찜하기
                     </RegisterButton>
                   )}
                 </td>
